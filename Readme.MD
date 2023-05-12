@@ -19,8 +19,12 @@ Teknik bilgi / Bilgisayar Bilimleri temelleri: Bilgisayar biliminde ve ilgili te
 Deneyim: Geçmişte iyi teknik kararlar verdiniz mi? İlginç ve zorlayıcı projeler geliştirdiniz mi? İsteklilik, girişimcilik ve diğer önemli faktörleri gösterdiniz mi?
 Kültürel uyum / İletişim becerileri: Kişilik ve değerleriniz şirket ve takımla uyumlu mu? Mülakatçınızla iyi iletişim kurabildiniz mi?
 Bu alanların ağırlığı, soruya, mülakatçıya, rol, takım ve şirkete bağlı olarak değişir. Standart bir algoritma sorusunda, bunların neredeyse tamamı önemli olabilir.
-Eğer bir notlama sistemi yoksa, nasıl değerlendiriliyorsunuz? Bir mülakatçı sizden ne bekleyeceğini nasıl bilebilir? İyi soru. Cevap, aslında anladığınızda oldukça mantıklı olur - Mülakatçılar, aynı mülakatçı tarafından aynı soruya cevap veren diğer adaylarla karşılaştırarak sizi değerlendirir. Bu bir göreceli karşılaştırmadır.
-Şirketin perspektifinden bakıldığında, iyi adayların bazılarının reddedilmesi kabul edilebilir. Şirket, harika bir çalışan ekibi oluşturmaya çalışıyor. İyi insanları kaçırmalarını kabul edebilirler. Tabii ki, tercih etmezler çünkü bu işe alım maliyetlerini artırır. Yeteri kadar iyi insanı işe alabiliyorlarsa, bu kabul edilebilir bir takas olarak görülür.
+Eğer bir notlama sistemi yoksa, nasıl değerlendiriliyorsunuz? Bir mülakatçı sizden ne bekleyeceğini nasıl bilebilir? 
+
+İyi soru. Cevap, aslında anladığınızda oldukça mantıklı olur - Mülakatçılar, aynı mülakatçı tarafından aynı soruya cevap veren diğer adaylarla karşılaştırarak sizi değerlendirir. Bu bir göreceli karşılaştırmadır.
+Şirketin perspektifinden bakıldığında, iyi adayların bazılarının reddedilmesi kabul edilebilir. 
+Şirket, harika bir çalışan ekibi oluşturmaya çalışıyor. İyi insanları kaçırmalarını kabul edebilirler. Tabii ki, tercih etmezler çünkü bu işe alım maliyetlerini artırır. Yeteri kadar iyi insanı işe alabiliyorlarsa, bu kabul edilebilir bir takas olarak görülür.
+
 Asıl endişe duydukları nokta yanlış pozitiflerdir: mülakatta iyi performans sergileyen ancak aslında çok iyi olmayan insanlar.
 Problem çözme becerileri değerlidir.
 Eğer birkaç zor problemi çözebiliyorsanız (belki biraz yardımla), muhtemelen optimal algoritmalar geliştirmekte oldukça iyisiniz demektir. Zekisiniz.

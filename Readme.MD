@@ -13,11 +13,13 @@ En üst düzey teknoloji şirketlerinin çoğunda (ve birçok diğer şirkette),
 Problemi çözerken düşüncelerinizi sesli olarak ifade etmek ve düşünce sürecinizi açıklamak için elinizden geleni yapmalısınız. Mülakatçınız bazen size yardımcı olmak için müdahale edebilir; izin verin. Bu normaldir ve kötü bir performans sergilediğiniz anlamına gelmez. 
 
 ### NASIL DEĞERLENDİRİLİRSİNİZ?
-Analitik beceriler: Problemi çözmek için çok fazla yardıma mı ihtiyacınız oldu? Çözümünüz ne kadar optimaldi? Bir çözüme varmak ne kadar sürdü? Eğer yeni bir çözüm tasarlamak/mimarlık yapmak zorunda kalsaydınız, problemi iyi yapılandırdınız mı ve farklı kararların getirdiği karşılıklı değişimleri düşündünüz mü?
+Analitik beceriler: Problemi çözmek için çok fazla yardıma mı ihtiyacınız oldu? Çözümünüz ne kadar optimaldi? Bir çözüme varmak ne kadar sürdü? 
+Eğer yeni bir çözüm tasarlamak/mimarlık yapmak zorunda kalsaydınız, problemi iyi yapılandırdınız mı ve farklı kararların getirdiği karşılıklı değişimleri düşündünüz mü?
 Kodlama becerileri: Algoritmanızı makul bir şekilde kodlamayı başarabildiniz mi? Kod temiz ve iyi düzenlenmiş miydi? Potansiyel hataları düşündünüz mü? İyi bir stil kullandınız mı?
 Teknik bilgi / Bilgisayar Bilimleri temelleri: Bilgisayar biliminde ve ilgili teknolojilerde sağlam bir temeliniz var mı?
 Deneyim: Geçmişte iyi teknik kararlar verdiniz mi? İlginç ve zorlayıcı projeler geliştirdiniz mi? İsteklilik, girişimcilik ve diğer önemli faktörleri gösterdiniz mi?
 Kültürel uyum / İletişim becerileri: Kişilik ve değerleriniz şirket ve takımla uyumlu mu? Mülakatçınızla iyi iletişim kurabildiniz mi?
+
 Bu alanların ağırlığı, soruya, mülakatçıya, rol, takım ve şirkete bağlı olarak değişir. Standart bir algoritma sorusunda, bunların neredeyse tamamı önemli olabilir.
 Eğer bir notlama sistemi yoksa, nasıl değerlendiriliyorsunuz? Bir mülakatçı sizden ne bekleyeceğini nasıl bilebilir? 
 

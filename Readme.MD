@@ -26,7 +26,7 @@ Problem çözme becerileri değerlidir.
 Eğer birkaç zor problemi çözebiliyorsanız (belki biraz yardımla), muhtemelen optimal algoritmalar geliştirmekte oldukça iyisiniz demektir. Zekisiniz.
 Zeki insanlar genellikle iyi şeyler yaparlar ve bu, bir şirket için değerlidir. Elbette, tek önemli şey bu değildir, ancak gerçekten önemli bir özelliktir.
 #### Temel veri yapıları ve algoritma bilgisi yararlıdır
-* Birçok mülakatçı, temel bilgisayar bilimi bilgisinin aslında yararlı olduğunu savunur. Ağaçlar, grafikler, listeler, sıralama ve diğer bilgilerin anlaşılması zaman zaman ortaya çıkar. Bunu yaptığınızda gerçekten değerli olur.
+Birçok mülakatçı, temel bilgisayar bilimi bilgisinin aslında yararlı olduğunu savunur. Ağaçlar, grafikler, listeler, sıralama ve diğer bilgilerin anlaşılması zaman zaman ortaya çıkar. Bunu yaptığınızda gerçekten değerli olur.
 
 ### AMAZON MÜLAKATI
 

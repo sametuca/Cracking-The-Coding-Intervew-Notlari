@@ -1,4 +1,4 @@
-# Cracking The Coding Interview Notları
+# Cracking The Coding Interview Notları - 1
 --------------------------------------------------
 ### ÇOK BAŞARILI BİR ÖĞRENCİ NEDEN ELENİR? 
 
@@ -41,5 +41,12 @@ Sizi mülakat yapan mühendis genellikle size bir paylaşılan belge düzenleyic
 Daha sonra, Seattle (veya başvurduğunuz ofis) uçuşu yaparsınız ve özgeçmişiniz ve telefon mülakatlarına dayanarak sizi seçen bir veya iki takımla dört veya beş mülakat yaparsınız. Beyaz tahtada kod yazmanız gerekecek ve bazı mülakatçılar diğer becerileri vurgulayacaktır. Mülakatçılara özel olarak incelenmesi gereken belirli bir alan atanır ve birbirlerinden çok farklı görünebilirler. Diğer geri bildirimleri görmeleri kendi geri bildirimlerini gönderene kadar göremezler ve işe alım toplantısına kadar bunları tartışmaları tavsiye edilmez.
 "Bar Raiser" mülakatçısı, mülakat çıtasını yüksek tutmakla görevlidir. Özel eğitimlere katılır ve grup dengelemesi için grubun dışından adayları mülakat eder. Eğer bir mülakat diğerlerine göre önemli ölçüde daha zor ve farklı görünüyorsa, muhtemelen "Bar Raiser"dır. Bu kişi, mülakatlarda önemli deneyime sahiptir ve işe alım kararında veto yetkisine sahiptir. Ancak unutmayın: sadece bu mülakatta daha fazla zorlandığınız için daha kötü bir performans sergiliyormuş gibi görünmek, gerçekte öyle olmadığı anlamına gelmez. Performansınız diğer adaylarla karşılaştırılarak değerlendirilir; basit bir "yüzde doğru" temelinde değerlendirilmez.
 
+### MİCROSOFT MÜLAKATI
 
+Tipik bir mülakatta sabah saatlerinde Microsoft'a gelir ve başlangıç evraklarını doldurursunuz. İlk olarak, bir işe alım uzmanıyla kısa bir mülakat yaparsınız ve size bir örnek soru verir. İşe alım uzmanınız genellikle sizi hazırlamak için oradadır, teknik sorularla sizi sıkmak için değil. Eğer bazı temel teknik sorular sorulursa, işe alım uzmanınız gerçek mülakat başlamadan önce sizi rahatlatmak için bunu yapabilir.
 
+Gün boyunca genellikle iki farklı takımla dört veya beş mülakat yaparsınız. Birçok şirketin aksine, mülakatçılarınızla bir konferans odasında değil, Microsoft mülakatçılarınızın ofisinde buluşursunuz. Bu, etrafı gözlemlemeniz ve takım kültürünü hissetmeniz için harika bir fırsattır.
+
+Takıma bağlı olarak, mülakatçılar sizin hakkınızdaki geri bildirimlerini diğer mülakat döngüsüyle paylaşabilir veya paylaşmayabilirler.
+Bir takımla mülakatlarınızı tamamladığınızda, bir işe alım yöneticisiyle konuşabilirsiniz (genellikle "as app" olarak kısaltılır).
+Kararı o gün alabilirsiniz veya bir hafta sürebilir. HR'dan bir hafta boyunca haber almadıysanız, durum güncellemesi için nazik bir e-posta gönderin.

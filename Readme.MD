@@ -1,2 +1,2 @@
-#### Tüm notlar bölümler halinde ayrýlmýþtýr. Bölümlere yukarýdaki klasörlerden ulaþabilirsiniz.
+#### Tüm notlar bölümler halinde ayrilmistir. Bölümlere yukarýdaki klasörlerden ulaþabilirsiniz.
 

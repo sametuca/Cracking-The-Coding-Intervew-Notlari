@@ -1,5 +1,10 @@
 # Cracking The Coding Interview Notları - 1
 --------------------------------------------------
+
+<a href="İçindekiler" id="İçindekiler">ss</a>
+## İçindekiler
+
+
 ### ÇOK BAŞARILI BİR ÖĞRENCİ NEDEN ELENİR? 
 
 Bir adayımızı reddettik. Bir eski öğrencimdi. Benim yönlendirdiğim biriydi. Washington Üniversitesi'nden, dünyanın en iyi bilgisayar bilimleri okullarından birinden 3.73 GPA'ye sahipti ve açık kaynaklı projeler üzerinde yoğun bir şekilde çalışmıştı. Enerjikti. Yaratıcıydı. Keskindi. Çok çalışıyordu. En iyi anlamda gerçek bir bilgisayar tutkunuydu.
@@ -50,3 +55,68 @@ Gün boyunca genellikle iki farklı takımla dört veya beş mülakat yaparsın�
 Takıma bağlı olarak, mülakatçılar sizin hakkınızdaki geri bildirimlerini diğer mülakat döngüsüyle paylaşabilir veya paylaşmayabilirler.
 Bir takımla mülakatlarınızı tamamladığınızda, bir işe alım yöneticisiyle konuşabilirsiniz (genellikle "as app" olarak kısaltılır).
 Kararı o gün alabilirsiniz veya bir hafta sürebilir. HR'dan bir hafta boyunca haber almadıysanız, durum güncellemesi için nazik bir e-posta gönderin.
+
+### FACEBOOK MÜLAKATI
+
+Bir mülakata seçildikten sonra, adaylar genellikle bir veya iki telefon mülakatı yapar. Telefon mülakatları teknik olacak ve genellikle çevrimiçi bir belge düzenleyicisi aracılığıyla kodlama içerecektir.
+
+Telefon mülakat(lar)ından sonra, kodlama ve algoritmaları içeren bir ödev verilebilir. Bu ödevde kodlama tarzınıza dikkat etmek önemlidir. Eğer daha önce detaylı kod incelemelerinin yapıldığı bir ortamda çalışmamışsanız, kodunuzu inceleyebilecek deneyimli bir kişinin gözden geçirmesini istemek iyi bir fikir olabilir.
+
+On-site (yerinde) mülakatlarınız sırasında genellikle diğer yazılım mühendisleriyle mülakat yapacaksınız, ancak müsait olduklarında işe alım yöneticileri de dahil olabilir. Tüm mülakatçılar kapsamlı bir mülakat eğitiminden geçmişlerdir ve hangi mülakatçıyla görüştüğünüz, iş teklifi alma olasılığınız üzerinde etkili değildir.
+
+Her mülakatçı, yerinde mülakatlarda bir "rol" verilir. Bu, tekrarlayan sorular olmamasını ve adayın bütünsel bir resmini almalarını sağlar. Bu roller şunlardır:
+
+Davranışsal ("Jedi"): Bu mülakat, Facebook'un ortamında başarılı olma yeteneğinizi değerlendirir. Şirket kültürü ve değerleriyle uyum sağlar mısınız? Neye heyecanlısınız? Zorlukları nasıl ele alıyorsunuz? Ayrıca Facebook'a olan ilginiz hakkında konuşmaya hazır olun. Facebook, tutkulu insanlar istemektedir. Bu mülakatta bazı kodlama soruları da sorulabilir.
+
+Kodlama ve Algoritmalar ("Ninja"): Bunlar, bu kitapta bulabileceğiniz standart kodlama ve algoritma sorularıdır. Bu sorular zorlu olacak şekilde tasarlanmıştır. İstediğiniz herhangi bir programlama dilini kullanabilirsiniz.
+
+Ayrıca, HackerRank kodlama değerlendirmesi de gönderilebilir. Bu değerlendirme, optimal algoritmalar yazma yeteneğinizi ve doğru kod yazma yeteneğinizi değerlendirecektir. Üniversite gibi daha az deneyime sahip adaylar, özellikle bu tür bir test alabilirler.
+
+Tasarım/Mimari ("Korsan"): Bir backend yazılım mühendisi için, sistem tasarımı soruları sorulabilir. Front-end veya diğer uzmanlık alanları için, o disipline ilişkin tasarım soruları sorulur. Farklı çözümleri ve bunların avantaj ve dezavantajlarını açıkça tartışmalısınız.
+
+Genellikle iki "ninja" mülakatı ve bir "jedi" mülakatı bekleyebilirsiniz. Tecrübeli adaylar genellikle bir "korsan" mülakatı da yaparlar.
+
+## Bir mülakatta başarılı olmak, mülakatın kendisinden önce başlar - aslında yıllar önce başlar. 
+
+###Doğru Deneyimi Elde Etmek
+
+Bir mülakat için harika bir özgeçmişe sahip olmadan önce, öncelikle harika deneyime sahip olmanız gerekmektedir. Ve harika deneyime sahip olmadan da harika bir özgeçmiş oluşturmanız mümkün değildir. Dolayısıyla, bir mülakata kabul edilmek için ilk adım harika deneyim elde etmektir. Bu konuda ne kadar önceden düşünebilirseniz o kadar iyi olur.
+
+Mezun öğrenciler için, bu aşağıdakileri yapmak anlamına gelebilir:
+
+Büyük Proje Derslerini Alın: Büyük kodlama projeleri içeren dersleri arayın. Bu, formel bir iş deneyiminiz olmadan önce nispeten pratik deneyim kazanmanın harika bir yoludur. Projenin gerçek dünyaya ne kadar uygun olduğu o kadar iyidir.
+
+Staj Yapın: Okulda staj yapmak için elinizden geleni yapın. Bu, mezun olmadan önce daha iyi staj imkanlarının önünü açacaktır. Birçok büyük teknoloji şirketi, özellikle birinci ve ikinci sınıf öğrenciler için staj programlarına sahiptir. Ayrıca, daha esnek olabilecek startup şirketlerine de göz atabilirsiniz.
+Bir Şeyler Başlatın: Boş zamanlarınızda bir proje oluşturun, hackathonlara katılın veya açık kaynaklı bir projeye katkıda bulunun. Ne olduğu çok da önemli değil. Önemli olan, kodlama yapmanızdır. Bu, teknik becerilerinizi ve pratik deneyiminizi geliştireceği gibi, girişkenliğiniz de şirketleri etkileyecektir.
+
+Profesyoneller ise, hayal ettikleri şirkete geçmek için genellikle gerekli deneyime zaten sahip olabilirler. Örneğin, bir Google geliştiricisi, Facebook'a geçmek için yeterli deneyime sahip olabilir. Ancak, daha az bilinen bir şirketten "büyük oyunculardan" birine veya test/IT alanından bir geliştirici rolüne geçmeye çalışıyorsanız, aşağıdaki öneriler faydalı olacaktır:
+
+İş Sorumluluklarınızı Daha Fazla Kodlama Odaklı Hale Getirin: Yöneticinize ayrılmayı düşündüğünüzü açıklamadan, daha büyük kodlama projelerini üstlenme isteğinizi dile getirebilirsiniz. Mümkün olduğunca, bu projelerin "etkileyici" olmasına, ilgili teknolojileri kullanmasına ve özgeçmişinizde bir veya iki maddeye iyi bir şekilde yer almasına dikkat edin.
+
+Tüm bunlar, şirketlerin görmek istediği iki temel şeye dayanmaktadır: zekice olduğunuzu ve kod yazabileceğinizi kanıtlayabilirseniz, mülakata kabul edilebilirsiniz.
+Bunun yanı sıra, kariyerinizin nereye gitmesini istediğinizi önceden düşünmeniz önemlidir. Gelecekte yöneticilik yapmayı düşünüyorsanız, şu anda bir geliştirici pozisyonu arasında olsanız bile, liderlik deneyimi geliştirmenin yollarını bulmalısınız.
+
+### İYİ BİR CV HAZIRLAMA
+
+* Özgeçmişinizi akıllı ve kodlama yeteneğinizi vurgulayacak şekilde hazırlayın. Tenis, seyahat veya sihirli kartlar gibi teknik olmayan hobilerinizi vurgulamak yerine, daha teknik detaylara odaklanın.
+
+* Özgeçmişinizin uzunluğuna dikkat edin. Eğer 10 yıldan daha az deneyiminiz varsa, özgeçmişinizi bir sayfada tutmanız tavsiye edilir. Daha deneyimli adaylar genellikle 1.5 - 2 sayfayı justifiye edebilir.
+
+* Özgeçmişinizin kısa olması genellikle daha etkileyici olabilir. İnsan kaynakları uzmanları, genellikle sadece sınırlı bir süre (yaklaşık 10 saniye) özgeçmişinize bakar. En etkileyici unsurları belirliyor olmanız önemlidir. Gereksiz bilgiler eklemek sadece dikkatlerinin dağılmasına neden olur.
+
+* İş Deneyimi bölümünde, sadece ilgili pozisyonları belirtin. Tüm iş geçmişinizi detaylandırmak zorunda değilsiniz. Sadece daha etkileyici bir aday haline getiren pozisyonları dahil edin.
+
+* Her bir rol için başarılarınızı aşağıdaki yaklaşımı kullanarak açıklamaya çalışın: "Y'yi uygulayarak X'i başardım ve bu Z'ye yol açtı." Örneğin, "Dağıtılmış önbellekleme uygulayarak nesne işlem süresini %75 azalttım, bu da giriş süresinde %10'luk bir azalmaya yol açtı."
+
+* İşinizin sonuçlarını mümkün olduğunca ölçülebilir hale getirmeye çalışın. Hangi başarıları elde ettiğinizi, nasıl başardığınızı ve sonuçlarının ne olduğunu belirtin.
+
+* İmla ve dilbilgisi kurallarına dikkat edin. Özgeçmişinizin düzenli ve anlaşılır bir şekilde olduğundan emin olun.
+
+* Özgeçmişinizi özelleştirin. İş başvurduğunuz şirketin değerlerine, kültürüne ve gereksinimlerine uyum sağlamak için özgeçmişinizi uyarlayın. Özgeçmişinizi şirkete özgü anahtar kelimeler ve vurgularla güçlendirin.
+
+Unutmayın, özgeçmişiniz sizi mülakata davet etmek için bir ön araçtır. Mülakatta daha ayrıntılı olarak deneyimlerinizi ve becerilerinizi kanıtlayabilmeniz önemlidir.
+
+<a href="#İçindekiler">İçindekiler Tablosuna Git</a>
+
+## Mülakat
+

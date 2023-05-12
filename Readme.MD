@@ -1,2 +1,2 @@
-#### T�m notlar b�l�mler halinde ayrilmistir. B�l�mlere yukar�daki klas�rlerden ula�abilirsiniz.
+#### Çeviri esnasında önemli gördüğüm noktaları, her bölüm 50 sayfaya tekabül edecek şekilde klasörledim. Bölümlere yukarıdan ulaşabilirsiniz.
 

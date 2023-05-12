@@ -12,7 +12,6 @@
 * [İyi Bir Özgeçmiş Hazırlama](#iyi-bir-cv-hazirlama)
 
 
-
 ### ÇOK BAŞARILI BİR ÖĞRENCİ NEDEN ELENİR? 
 
 Bir adayımızı reddettik. Bir eski öğrencimdi. Benim yönlendirdiğim biriydi. Washington Üniversitesi'nden, dünyanın en iyi bilgisayar bilimleri okullarından birinden 3.73 GPA'ye sahipti ve açık kaynaklı projeler üzerinde yoğun bir şekilde çalışmıştı. Enerjikti. Yaratıcıydı. Keskindi. Çok çalışıyordu. En iyi anlamda gerçek bir bilgisayar tutkunuydu.

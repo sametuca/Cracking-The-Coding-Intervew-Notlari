@@ -1,4 +1,4 @@
-# Cracking The Coding Interview Notları | 1
+# Cracking The Coding Interview Notları
 --------------------------------------------------
 ### ÇOK BAŞARILI BİR ÖĞRENCİ NEDEN ELENİR? 
 

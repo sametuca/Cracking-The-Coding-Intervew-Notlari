@@ -1,15 +1,10 @@
 # Cracking The Coding Interview Notları - 1
 --------------------------------------------------
 ## İçindekiler
-* [Çok Başarılı Bir Öğrenci Neden Elenir?](#cok-basarili-bir-ogrenci-neden-elenir)
-* [Üst Düzey Teknoloji Şirketlerinin Dikkat Ettiği Noktalar](#ust-duzey-teknoloji-sirketlerinin-dikkat-ettigi-noktalar)
-* [Bu Tarz Durumlarda Ne Yapmak Gerekir?](#bu-tarz-durumlarda-ne-yapmak-gerekir)
-* [Nasıl Değerlendirilirsiniz?](#nasıl-değerlendirilirsiniz)
-* [Amazon Mülakatı](#amazon-mulakati)
-* [Facebook Mülakatı](#facebook-mulakati)
-* [Google Mülakatı](#google-mulakati)
-* [Microsoft Mülakatı](#microsoft-mulakati)
-* [İyi Bir Özgeçmiş Hazırlama](#iyi-bir-cv-hazirlama)
+* [Algoritma Analizi](#algoritma-analizi)
+* [Büyük O İle Gösterilen İfadelerin Değerlendirilmesi](#büyük-o-ile-gösterilen-ifadelerin-değerlendirilmesi)
+* [Multi-Part Algorithms: Add vs. Multiply](#multi-part-algorithms-add-vs-multiply)
+
 
 
 ### Algoritma Analizi

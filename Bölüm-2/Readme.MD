@@ -2,7 +2,7 @@
 --------------------------------------------------
 ## İçindekiler
 * [Algoritma Analizi](#algoritma-analizi)
-* [Büyük O İle Gösterilen İfadelerin Değerlendirilmesi](#büyük-o-ile-gösterilen-ifadelerin-değerlendirilmesi)
+* [Büyük O İle Gösterilen İfadelerin Okunması](#büyük-o-ile-gösterilen-ifadelerin-okunması)
 * [Multi-Part Algorithms: Add vs. Multiply](#multi-part-algorithms-add-vs-multiply)
 
 
@@ -48,7 +48,7 @@ Büyük O gösterimi, algoritmanın çalışma süresinin nasıl ölçeklendiği
 
 Yani, metindeki ifade, büyük O gösteriminin sadece çalışma süresinin ölçeklendirilmesini ifade ettiğini ve her zaman O (N) olan bir algoritmanın herhangi bir O (N^2) algoritmadan daha iyi olmadığını kabul etmemiz gerektiğini vurgulamaktadır.
 
-### Büyük O İle Gösterilen İfadelerin Değerlendirilmesi
+### Büyük O İle Gösterilen İfadelerin Okunması
 
 Örneğin, "O(N^3 + N)" gibi bir ifade verildiğinde, ikinci N terimi tam olarak bir sabit değil, ancak çok önemli değildir. Zaten sabitleri göz ardı ettiğimiz için, "O(N^3 + N^2)" ifadesi "O(N^3)" olarak kabul edilebilir. Yani, bu durumda N terimini göz ardı edebiliriz.
 

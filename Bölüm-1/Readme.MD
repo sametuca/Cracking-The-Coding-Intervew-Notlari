@@ -12,19 +12,19 @@
 * [İyi Bir Özgeçmiş Hazırlama](#iyi-bir-cv-hazirlama)
 
 
-### ÇOK BAŞARILI BİR ÖĞRENCİ NEDEN ELENİR? 
+### Çok Başarılı Bir Öğrenci Neden Elenir?
 
 Bir adayımızı reddettik. Bir eski öğrencimdi. Benim yönlendirdiğim biriydi. Washington Üniversitesi'nden, dünyanın en iyi bilgisayar bilimleri okullarından birinden 3.73 GPA'ye sahipti ve açık kaynaklı projeler üzerinde yoğun bir şekilde çalışmıştı. Enerjikti. Yaratıcıydı. Keskindi. Çok çalışıyordu. En iyi anlamda gerçek bir bilgisayar tutkunuydu.
 
 Zeki olmasına rağmen, mülakat sorunlarını çözmekte zorlandı. Başarılı adayların çoğu ilk soruyu hızla çözebilirdi, bu tanınmış bir sorunun  değiştirilmiş bir versiyonuydu, ancak o algoritma geliştirmekte zorluk çekti. Bir tane geliştirdiğinde, diğer senaryolar için optimize eden çözümleri düşünmeyi başaramadı. Sonunda kodlamaya başladığında, başlangıç çözümüyle  hızla ilerledi, ancak hatalarla dolu bir kod ortaya çıktı ve bunları fark edemedi. Hiç de en kötü aday değildi, ancak "beklenti"yi karşılamaktan uzaktı. Reddedildi.
 
-### ÜST DÜZEY TEKNOLOJİ ŞİRKETLERİNİN DİKKAT ETTİĞİ NOKTALAR
+### Üst Düzey Teknoloji Şirketlerinin Dikkat Ettiği Noktalar
 En üst düzey teknoloji şirketlerinin çoğunda (ve birçok diğer şirkette), mülakat sürecinin en büyük bileşeni algoritma ve kodlama sorunlarıdır. Bu soruları problem çözme soruları olarak düşünebilirsiniz. Mülakatçı, daha önce görmediğiniz algoritmik sorunları çözebilme yeteneğinizi değerlendirmek istiyor.
 
-### BU TARZ DURUMLARDA NE YAPMAK GEREKİR?
+### Bu Tarz Durumlarda Ne Yapmak Gerekir?
 Problemi çözerken düşüncelerinizi sesli olarak ifade etmek ve düşünce sürecinizi açıklamak için elinizden geleni yapmalısınız. Mülakatçınız bazen size yardımcı olmak için müdahale edebilir; izin verin. Bu normaldir ve kötü bir performans sergilediğiniz anlamına gelmez. 
 
-### NASIL DEĞERLENDİRİLİRSİNİZ?
+### Nasıl Değerlendirilirsiniz?
 Analitik beceriler: Problemi çözmek için çok fazla yardıma mı ihtiyacınız oldu? Çözümünüz ne kadar optimaldi? Bir çözüme varmak ne kadar sürdü? 
 Eğer yeni bir çözüm tasarlamak/mimarlık yapmak zorunda kalsaydınız, problemi iyi yapılandırdınız mı ve farklı kararların getirdiği karşılıklı değişimleri düşündünüz mü?
 Kodlama becerileri: Algoritmanızı makul bir şekilde kodlamayı başarabildiniz mi? Kod temiz ve iyi düzenlenmiş miydi? Potansiyel hataları düşündünüz mü? İyi bir stil kullandınız mı?
@@ -46,14 +46,14 @@ Zeki insanlar genellikle iyi şeyler yaparlar ve bu, bir şirket için değerlid
 #### Temel veri yapıları ve algoritma bilgisi yararlıdır
 Birçok mülakatçı, temel bilgisayar bilimi bilgisinin aslında yararlı olduğunu savunur. Ağaçlar, grafikler, listeler, sıralama ve diğer bilgilerin anlaşılması zaman zaman ortaya çıkar. Bunu yaptığınızda gerçekten değerli olur.
 
-### AMAZON MÜLAKATI
+### Amazon Mülakat Süreci
 
 Amazon'un işe alım süreci genellikle bir adayın belirli bir ekip ile telefon mülakatı yapmasıyla başlar. Nadiren, bir adayın iki veya daha fazla mülakatı olabilir, bu ya mülakatçılardan birinin ikna olmadığı anlamına gelebilir ya da farklı bir ekip veya pozisyon için düşünülüyor olabilirler. Daha nadir durumlarda, bir aday yerel ise veya daha önce farklı bir pozisyon için mülakat yaptıysa, sadece bir telefon mülakatı yapabilir.
 Sizi mülakat yapan mühendis genellikle size bir paylaşılan belge düzenleyici aracılığıyla basit bir kod yazmanızı isteyecektir. Ayrıca genellikle hangi teknoloji alanlarına aşina olduğunuzu keşfetmek için geniş bir soru seti de sorarlar.
 Daha sonra, Seattle (veya başvurduğunuz ofis) uçuşu yaparsınız ve özgeçmişiniz ve telefon mülakatlarına dayanarak sizi seçen bir veya iki takımla dört veya beş mülakat yaparsınız. Beyaz tahtada kod yazmanız gerekecek ve bazı mülakatçılar diğer becerileri vurgulayacaktır. Mülakatçılara özel olarak incelenmesi gereken belirli bir alan atanır ve birbirlerinden çok farklı görünebilirler. Diğer geri bildirimleri görmeleri kendi geri bildirimlerini gönderene kadar göremezler ve işe alım toplantısına kadar bunları tartışmaları tavsiye edilmez.
 "Bar Raiser" mülakatçısı, mülakat çıtasını yüksek tutmakla görevlidir. Özel eğitimlere katılır ve grup dengelemesi için grubun dışından adayları mülakat eder. Eğer bir mülakat diğerlerine göre önemli ölçüde daha zor ve farklı görünüyorsa, muhtemelen "Bar Raiser"dır. Bu kişi, mülakatlarda önemli deneyime sahiptir ve işe alım kararında veto yetkisine sahiptir. Ancak unutmayın: sadece bu mülakatta daha fazla zorlandığınız için daha kötü bir performans sergiliyormuş gibi görünmek, gerçekte öyle olmadığı anlamına gelmez. Performansınız diğer adaylarla karşılaştırılarak değerlendirilir; basit bir "yüzde doğru" temelinde değerlendirilmez.
 
-### MİCROSOFT MÜLAKATI
+### Microsoft Mülakat Süreci
 
 Tipik bir mülakatta sabah saatlerinde Microsoft'a gelir ve başlangıç evraklarını doldurursunuz. İlk olarak, bir işe alım uzmanıyla kısa bir mülakat yaparsınız ve size bir örnek soru verir. İşe alım uzmanınız genellikle sizi hazırlamak için oradadır, teknik sorularla sizi sıkmak için değil. Eğer bazı temel teknik sorular sorulursa, işe alım uzmanınız gerçek mülakat başlamadan önce sizi rahatlatmak için bunu yapabilir.
 
@@ -63,7 +63,7 @@ Takıma bağlı olarak, mülakatçılar sizin hakkınızdaki geri bildirimlerini
 Bir takımla mülakatlarınızı tamamladığınızda, bir işe alım yöneticisiyle konuşabilirsiniz (genellikle "as app" olarak kısaltılır).
 Kararı o gün alabilirsiniz veya bir hafta sürebilir. HR'dan bir hafta boyunca haber almadıysanız, durum güncellemesi için nazik bir e-posta gönderin.
 
-### FACEBOOK MÜLAKATI
+### Facebook Mülakat Süreci
 
 Bir mülakata seçildikten sonra, adaylar genellikle bir veya iki telefon mülakatı yapar. Telefon mülakatları teknik olacak ve genellikle çevrimiçi bir belge düzenleyicisi aracılığıyla kodlama içerecektir.
 
@@ -85,7 +85,7 @@ Genellikle iki "ninja" mülakatı ve bir "jedi" mülakatı bekleyebilirsiniz. Te
 
 #### Bir mülakatta başarılı olmak, mülakatın kendisinden önce başlar - aslında yıllar önce başlar. 
 
-### DOĞRU DENEYİMİ EDİNMEK
+### Doğru Deneyimi Edinin
 
 Bir mülakat için harika bir özgeçmişe sahip olmadan önce, öncelikle harika deneyime sahip olmanız gerekmektedir. Ve harika deneyime sahip olmadan da harika bir özgeçmiş oluşturmanız mümkün değildir. Dolayısıyla, bir mülakata kabul edilmek için ilk adım harika deneyim elde etmektir. Bu konuda ne kadar önceden düşünebilirseniz o kadar iyi olur.
 
@@ -103,7 +103,7 @@ Profesyoneller ise, hayal ettikleri şirkete geçmek için genellikle gerekli de
 Tüm bunlar, şirketlerin görmek istediği iki temel şeye dayanmaktadır: zekice olduğunuzu ve kod yazabileceğinizi kanıtlayabilirseniz, mülakata kabul edilebilirsiniz.
 Bunun yanı sıra, kariyerinizin nereye gitmesini istediğinizi önceden düşünmeniz önemlidir. Gelecekte yöneticilik yapmayı düşünüyorsanız, şu anda bir geliştirici pozisyonu arasında olsanız bile, liderlik deneyimi geliştirmenin yollarını bulmalısınız.
 
-### İYİ BİR CV HAZIRLAMA
+### İyi Bir Özgeçmiş Oluşturun
 
 * Özgeçmişinizi akıllı ve kodlama yeteneğinizi vurgulayacak şekilde hazırlayın. Tenis, seyahat veya sihirli kartlar gibi teknik olmayan hobilerinizi vurgulamak yerine, daha teknik detaylara odaklanın.
 
